@@ -15,8 +15,8 @@ De twee webpagina's moeten aan de volgende functionele eis voldoen:
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
 
 De twee pagina's moet aan de volgende technische eisen voldoen:
-* Van de eerste pagina moet alleen de bijbehorende stylesheet worden uitgebreid
-* Van de tweede pagina moet alleen de bijbehorende stylesheet worden uitgebreid
+* Van de eerste pagina (space1.html) moet alleen de bijbehorende stylesheet worden uitgebreid
+* Van de tweede pagina (space2.html) moet alleen de bijbehorende stylesheet worden uitgebreid
 * Gebruik flex-boxen waar nodig
 * Gebruik width, margin, padding en line-height waar nodig
 * Alle documenten zijn geschreven in HTML5
