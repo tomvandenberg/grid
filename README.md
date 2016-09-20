@@ -10,7 +10,7 @@ Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten
 De twee webpagina's moeten aan de volgende functionele eis voldoen:
 
 * De twee pagina's moeten exact worden gemaakt zoals in de voorbeelden (Voorbeelden/space.png en Voorbeelden/space2.png)
-* De twee pagina's zijn gecentreerd en hebben een vaste breedte, zoals in de voorbeelden
+* De twee pagina's zijn in elk browserscherm gecentreerd en hebben altijd een vaste breedte, zoals in de voorbeelden
 
 ###Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
