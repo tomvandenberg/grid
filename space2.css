@@ -1,46 +1,66 @@
-		body {
-			background-image: url(bg.png);
-			font-family: Tahoma;
-		}
-		
-		#frame {
-			background-color: rgba(255,200,200,0.3);
-		}
-		
-		header nav ul {
-			list-style-type: none;
-			background-color: rgba(255,255,200,0.3);
-		}
-		
-		#content {
-			
-		}
-		
-		nav li {
-			
-		}
-		
-		nav li a {
-		}
-		
-		main{
-			border: 1px black solid;
-			background-color: rgba(200,200,255,0.3);
-		}
-		
-		aside{
-			border: 1px black solid;
-			background-color: rgba(200,255,200,0.3);
-		}
-		
-		body article {
-			background-color: rgba(200,200,200,0.6);
-		}
-		
-		header {
-		}
-		
-		footer {
-			background-color: rgba(255,255,200,0.3);
-		}
-	
+body {
+      background-image: url(bg.png);
+      font-family: Tahoma;
+    }
+
+    #frame {
+      background-color: rgba(255,200,200,0.3);
+      width: 1020px;
+      margin: 0 auto;
+      padding: 8px;
+    }
+
+    header h1 {
+      text-align: center;
+    }
+
+    header nav ul {
+      list-style-type: none;
+      padding-left: 10px;
+      line-height: 50px;
+      background-color: rgba(255,255,200,0.3);
+    }
+
+    #content {
+      display: flex;
+    }
+
+    nav li a {
+      text-decoration: none;
+      color: black;
+      padding-right: 20px;
+      font-weight: bold;
+    }
+
+    main{
+      border: 1px black solid;
+      background-color: rgba(200,200,255,0.3);
+      flex-basis: 70%;
+      padding: 10px;
+    }
+
+    aside{
+      border: 1px black solid;
+      background-color: rgba(200,255,200,0.3);
+      flex-basis: 30%;
+      padding: 10px;
+    }
+    header h1 {
+      text-align: center;
+    }
+
+    body article {
+      background-color: rgba(200,200,200,0.6);
+    }
+
+
+
+    footer {
+      background-color: rgba(255,255,200,0.3);
+      font-weight: bold;
+      text-align: center;
+     }
+
+    nav li {
+    display: inline-block;
+    }
